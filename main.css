@@ -5,3 +5,12 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 30%;
+    border: 2px solid rgb(35, 35, 35);
+    background-color: rgb(226, 202, 172);
+}
